@@ -1,0 +1,1 @@
+There is a config for half-stepping (https://www.cnczone.com/forums/emco-lathe/186598-machinist-software-post1818116.html#post1818116) that I have not modified and tested as yet. It will be added at a later date.
